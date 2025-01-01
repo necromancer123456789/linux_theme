@@ -15,7 +15,7 @@ You can use the readme.txt file for the guide on how to use the script file for 
 alternatively you can use the automated setup.sh file to apply this theme to your desktop.
 
 
-1. cd LinuxTHEME
+1. cd linux_theme
 
 2. Give the Permission to setup.sh file
 
@@ -28,7 +28,7 @@ bash ./setup.sh
 if you want to remove the changes created by script 
 run the this command:
 
-1. cd ~/LinuxTHEME
+1. cd ~/linux_theme
 
 2. chmod +x ./uninstall.sh
 
