@@ -1,0 +1,25 @@
+[legacy]
+theme-variant='system'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=false
+background-color='rgb(3,13,28)'
+bold-color='rgb(82,142,213)'
+bold-color-same-as-fg=true
+bold-is-bright=false
+cell-height-scale=1.1000000000000001
+cell-width-scale=1.1500000000000001
+cursor-background-color='rgb(21,127,26)'
+cursor-blink-mode='on'
+cursor-colors-set=true
+cursor-foreground-color='rgb(38,190,44)'
+cursor-shape='ibeam'
+font='Noto Mono 12'
+foreground-color='rgb(30,117,51)'
+highlight-background-color='rgb(63,82,108)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(4,33,77)'
+palette=['rgb(7,54,66)', 'rgb(130,98,56)', 'rgb(19,123,16)', 'rgb(181,137,0)', 'rgb(33,120,183)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+use-system-font=false
+use-theme-colors=false
+visible-name='mySpace'

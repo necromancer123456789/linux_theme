@@ -1,0 +1,23 @@
+
+1. git init
+
+#add repo to commit
+2. git remote add origin "git repo Link here"
+
+#show the permision of repo
+3. git remote -v
+
+#add all file on you're current directory
+4. git add .
+
+#commit to repo
+5. git commit -m "comment here"
+
+
+
+
+
+#push file to repo
+git branch -M main
+git push -u origin main
+

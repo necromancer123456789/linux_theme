@@ -1,0 +1,42 @@
+
+show shell version
+gnome-shell --version
+
+
+show debian version
+lsb_release -a
+
+install a package from .deb file
+sudo dpkg -i package_name.deb
+
+rename
+mv original_name.txt new_name.txt
+
+move
+mv filename.txt path/to/directory
+
+
+
+copy files to another folder
+syntax
+cp [source files] [destination folder]
+
+cp -r file1.txt file2.txt file3.txt /path/to/destination/folder
+
+
+
+extract 
+.xz file
+tar xf nameofFile.xz
+
+.tar file
+tar xvf nameofFile.tar
+
+.zip file
+unzip nameofFile.zip -d ./path/to/dir
+
+
+
+search tips
+
+look for .deb package of software you like :D
